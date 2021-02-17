@@ -1,0 +1,30 @@
+{
+  "name": "json-schema-filter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henhal/json-schema-filter.git"
+  },
+  "keywords": [
+    "JSON",
+    "schema",
+    "validation",
+    "filtering",
+    "data",
+    "transformation"
+  ],
+  "author": "Henrik Hall",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/henhal/json-schema-filter/issues"
+  },
+  "homepage": "https://github.com/henhal/json-schema-filter#readme",
+  "devDependencies": {
+    "@types/json-schema": "^7.0.7"
+  }
+}
